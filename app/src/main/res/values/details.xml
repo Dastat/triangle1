@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="perimeter">Пириметр Р </string>
+    <string name="mm2">мм&#178; </string>
+    <string name="mm">мм </string>
+    <string name="degree">&#176; </string>
+    <string name="deg">град </string>
+    <string name="base_a">Основание a</string>
+    <string name="height_h">Высота h</string>
+    <string name="diagonal">Диагональ d</string>
+    <string name="side_a">Сторона a </string>
+    <string name="side_b">Сторона b </string>
+    <string name="side_c">Сторона c </string>
+    <string name="side_d">Сторона d </string>
+    <string name="radius_r">Радиус r </string>
+    <string name="diameter_D">Диаметр D </string>
+    <string name="circumference">Длинна окружности L </string>
+
+    <string name="corner_alpha">угол &#8736; &#945;  </string>
+    <string name="corner_betta">угол &#8736; &#946;  </string>
+    <string name="corner_sigma">угол &#8736; &#947;  </string>
+    <string name="corner_delta">угол &#8736; &#948;  </string>
+
+</resources>

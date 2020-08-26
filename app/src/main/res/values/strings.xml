@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">triangle</string>
+    <string name="triangle">Треугольник</string>
+    <string name="square">Прямоугольник</string>
+    <string name="trapeze">Трапеция</string>
+    <string name="circle">Круг</string>
+    <string name="select"> Для какой фигуры нужно расчитать площадь</string>
+    <string name="base_height"> Через основание и высоту</string>
+    <string name="sides_angle"> По двум стронам и углу</string>
+    <string name="Heron">По трем сторнам (Формура Герона)</string>
+    <string name="trapezeBasesHeight">По высоте и основаниям</string>
+    <string name="trapezeFourSides">По четырем сторонам</string>
+    <string name="trapezeBasesAngles">Через ее основания и углы при основании</string>
+    <string name="circleRadius">Через радиус</string>
+    <string name="circleDiameter">Через диаметр</string>
+    <string name="circleCircumference">Через длинну окружноси</string>
+    <string name="triangle_select">Расчитать площадь</string>
+    <string name="back">Назад</string>
+    <string name="area">Площадь S =</string>
+    <string name="calculate">Рассчитать</string>
+
+    <string name="detailed">Подробнее</string>
+
+    <string name="SquareMethod1">По двум сторонам </string>
+    <string name="SquareMethod2">По Стороне и диагонали</string>
+    <string name="SquareMethod3">По двум диагоналям и углу </string>
+</resources>
